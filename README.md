@@ -3,7 +3,7 @@ Image-to-Image Translation with Conditional Adversarial Network
 
 ## paper  
 https://arxiv.org/abs/1611.07004 pix2pix
-![testImage](./pix2pix_paper_image/pix2pix_object.png)
+![testImage](./pix2pix_paper_image/pix2pix_object.PNG)
 
 https://arxiv.org/abs/1505.04597 Unet
 
@@ -16,6 +16,7 @@ GTX-1080TI
 
 ## dataset
 edges2shoes
+https://people.eecs.berkeley.edu/~tinghuiz/projects/pix2pix/datasets/
 
 ## pix2pix.py
 pix2pix가 구현되어 있는 Class
@@ -37,18 +38,18 @@ zip 형식으로 분할 압축 되어 있음(7-Zip 이용)
 ## pix2pix edges2shoes result (after 45 epochs of training) 
 Input / Ground Truth / Generated
 
-![testImage](./generate/45/48.jpg)
-![testImage](./generate/45/51.jpg)
-![testImage](./generate/45/73.jpg)
-![testImage](./generate/45/79.jpg)
-![testImage](./generate/45/93.jpg)
-![testImage](./generate/45/187.jpg)
-![testImage](./generate/45/190.jpg)
-![testImage](./generate/45/200.jpg)
-![testImage](./generate/45/181.jpg)
-![testImage](./generate/45/177.jpg)
-![testImage](./generate/45/176.jpg)
-![testImage](./generate/45/125.jpg)
-![testImage](./generate/45/117.jpg)
-![testImage](./generate/45/104.jpg)
+![testImage](./generate/45/48_AB.jpg)
+![testImage](./generate/45/51_AB.jpg)
+![testImage](./generate/45/73_AB.jpg)
+![testImage](./generate/45/79_AB.jpg)
+![testImage](./generate/45/93_AB.jpg)
+![testImage](./generate/45/187_AB.jpg)
+![testImage](./generate/45/190_AB.jpg)
+![testImage](./generate/45/200_AB.jpg)
+![testImage](./generate/45/181_AB.jpg)
+![testImage](./generate/45/177_AB.jpg)
+![testImage](./generate/45/176_AB.jpg)
+![testImage](./generate/45/125_AB.jpg)
+![testImage](./generate/45/117_AB.jpg)
+![testImage](./generate/45/104_AB.jpg)
 
