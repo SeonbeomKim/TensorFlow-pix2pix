@@ -11,7 +11,7 @@ https://arxiv.org/abs/1505.04597 Unet
 https://fomoro.com/tools/receptive-fields/#4,2,1,SAME;4,2,1,SAME;4,2,1,SAME;4,1,1,SAME;4,1,1,SAME 70x70
 
 ## Env
-TensorFlow version == 1.4
+TensorFlow version == 1.4  
 GTX-1080TI
 
 ## dataset
@@ -36,7 +36,7 @@ zip 형식으로 분할 압축 되어 있음(7-Zip 이용)
 
 
 ## pix2pix edges2shoes result (after 45 epochs of training) 
-Input / Ground Truth / Generated
+"Input   /   Ground Truth   /   Generated"
 
 ![testImage](./generate/45/48_AB.jpg)
 ![testImage](./generate/45/51_AB.jpg)
