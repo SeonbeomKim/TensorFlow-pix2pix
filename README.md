@@ -38,6 +38,7 @@ zip 형식으로 분할 압축 되어 있음(7-Zip 이용)
 ## pix2pix edges2shoes result (after 45 epochs of training) 
 |Input   |   Ground Truth   |   Generated|
 |--------|------------------|------------|
+|![testImage](./generate/45/48_AB.jpg)   |
 
 ![testImage](./generate/45/48_AB.jpg)
 ![testImage](./generate/45/51_AB.jpg)
